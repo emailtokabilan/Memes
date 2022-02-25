@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Memes/static/css/main.0edbb522.css",
+    "main.js": "/Memes/static/js/main.16d0d38c.js",
+    "static/js/787.c1112931.chunk.js": "/Memes/static/js/787.c1112931.chunk.js",
+    "static/media/Meme-HD-Wallpaper.jpg": "/Memes/static/media/Meme-HD-Wallpaper.e1ccc29ce9c7598ec2ae.jpg",
+    "index.html": "/Memes/index.html",
+    "main.0edbb522.css.map": "/Memes/static/css/main.0edbb522.css.map",
+    "main.16d0d38c.js.map": "/Memes/static/js/main.16d0d38c.js.map",
+    "787.c1112931.chunk.js.map": "/Memes/static/js/787.c1112931.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0edbb522.css",
+    "static/js/main.16d0d38c.js"
+  ]
+}
